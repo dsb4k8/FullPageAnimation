@@ -3,17 +3,17 @@
     padding:0;
     box-sizing: border-box;
 }
-.tulip{
-    height: 20%;
-    position: absolute;
-    top: 70%;
-    left:20%;
-    transform: translate(-50%, -70%);
-}
-.sofa{
-    height: 20%;
+.chair{
+    height: 60%;
     position: absolute;
     top: 70%;
     left:50%;
     transform: translate(-50%, -70%);
 }
+
+.s1{
+    background-image: url("./img/couch.jpg");
+    background-size: cover;
+}
+
+
